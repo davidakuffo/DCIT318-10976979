@@ -1,0 +1,14 @@
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\bin\Debug\net7.0\DCIT318-10976979.exe
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\bin\Debug\net7.0\DCIT318-10976979.deps.json
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\bin\Debug\net7.0\DCIT318-10976979.runtimeconfig.json
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\bin\Debug\net7.0\DCIT318-10976979.dll
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\bin\Debug\net7.0\DCIT318-10976979.pdb
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\obj\Debug\net7.0\DCIT318-10976979.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\obj\Debug\net7.0\DCIT318-10976979.AssemblyInfoInputs.cache
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\obj\Debug\net7.0\DCIT318-10976979.AssemblyInfo.cs
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\obj\Debug\net7.0\DCIT318-10976979.csproj.CoreCompileInputs.cache
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\obj\Debug\net7.0\DCIT318-10976979.dll
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\obj\Debug\net7.0\refint\DCIT318-10976979.dll
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\obj\Debug\net7.0\DCIT318-10976979.pdb
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\obj\Debug\net7.0\DCIT318-10976979.genruntimeconfig.cache
+C:\Users\Nana\source\repos\DCIT318-10976979\DCIT318-10976979\obj\Debug\net7.0\ref\DCIT318-10976979.dll
